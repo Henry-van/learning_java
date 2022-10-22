@@ -131,8 +131,8 @@ public class LoginFrame extends JFrame implements ActionListener, ItemListener {
     private void reset() {
         smtpCB.setSelectedIndex(0);
         pop3CB.setSelectedIndex(0);
-        nameTF.setText("2497789057@qq.com");
-        passwordTF.setText("crvqxaprvoiiecha"); //pop3
+        nameTF.setText("1234@qq.com");
+        passwordTF.setText("sdfdddd"); //pop3
     }
 
     // 登录验证
