@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="JavaMail:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaMail_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JavaMail/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

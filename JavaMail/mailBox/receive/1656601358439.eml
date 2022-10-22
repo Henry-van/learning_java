@@ -1,0 +1,260 @@
+Received: from smtp-03-tuk1.steampowered.com (smtp-03-tuk1.steampowered.com [208.64.202.39])
+	by newxmmxszb1-16.qq.com (NewMX) with SMTP id 4B431AF3
+	for <2497789057@qq.com>; Thu, 30 Jun 2022 17:18:52 +0800
+X-QQ-mid: xmmxzb1-16t1656580732tmcwd8jk4
+X-QQ-XMAILINFO: McjdqCkB56RmZwkvmbSMFEv2H7e0iRi1ofRJfIAIaAzvO1e2bXOTKsaConPpVl
+	 qvV1g1HKBIY1748+hGoH1bVxl+ywdJ9lw+uYaVM+wp0g3nTL+BMHmFkvw2ljLc24oxqQTz/9R97x
+	 1VQHsZkjRcdud8hP5VUPdkNlyqRVP1HPGRxxLCZx355r2bgJCpwsoTVL6X5FJsamOYEpyI7M+cK4
+	 QTyUyj9rXH0+WGnXZU0ziSXIsAfdTUBOoCDzR+wCMS2tlbNb/5m9+EFQhQqvDzCLSqrtUgQbjVYk
+	 lbDnflco2ELHBD4x+xTLywCD9c9NOxXWq1ycyIg0RiRor6WYStAQtbKJZBrXOnhpiJt/uiBmdnnd
+	 gvh6Wy5EShj9ApAbUE+2oywucnPBrxrvqDVc8zDsz6exh3fu1hddMUCwweLKi0I1QJ5NNXWcb6hI
+	 n02oI5P3679LhjDhmhYtgnmMpN5ofpKA2Rm1xrezycdbHZyfaLnRiE420N6CTRpHwGj6msMDPSq3
+	 N06SvxXn+Yq0u8+tmPl5wEn95ixJQs1wLIo023T9BQd3QS9OfHouKTovOzrlRHlcMx/SDCSB+Pgv
+	 VwN7HP2zWJsG6JnuQtK+8oKqybILhV/tOCX2Eq82dTmniWlnNp1HfJkoU+HzPcPkAYKT3HAUnahq
+	 gCgI5YiBP87PcWe4Kk0NiDQqeKM02W1vlwgu+SNyA/ATTh2QJa6Tht2qLNvuNMYTKravW+3+YtMs
+	 Gt5+zPv0ZruYa49UddyULQDbjNEKNVOiboHMz5U2yURp7VNXJxbVivGuVc4MvbCZyzMess2P6o4o
+	 UMODUDmC3utt7LlcvyN2rC2Fyf/5K/2ZA0moBsNHGJFiSd8oFyyYFjblIomrEs6MYBqRFJUtBKSw
+	 sNujUxLpR0CQQX+WlsS/nxomR+Rj0PWTevNMSZ/iZi/aVLRCHUsIPMxDhkVrQvxuNtwZoYSyPf1E
+	 CbhhRNEkg3xBsyXBLkf7tDrBbXKU1kPZqzMo1qqts7R/VzfaDmQzhI3efDgBOPTSMpMFEXLGQvFe
+	 KVPsmAEisFgRa2BmHBGfmB2Go9o2lHK9ERFuVeiLt87oSS1fz6V1vK1QUoXdJLy3VmfRY54O4NGi
+	 3EzETy4YZR/fpExabD92WwNudSBq0EpH4JFjOMvYaQiUpq3Tyxr6V5uG1ehHBApY3u0J/QV4YbQd
+	 GCEW+KEqKoZZZN/v/w6J893aqaVt9TVAcqEH3vqTR2cTiyI1FDF48W7Y77uSuTmwHHOKGIdAEgK2
+	 g9cQ==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=steampowered.com; s=smtp; h=Date:Message-Id:Content-Type:Subject:
+	MIME-Version:Reply-To:From:To:Sender:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=4HGdBVLJgmwR56VL63jM4EhdkZmSeh2PnEsuOkGUIO8=; b=JogTiw0VLVgDhR3Kur0TlImMBI
+	+2uI7cFBgaL+YdNhzz/F8YkQShB52HJG5BqIVyARvW8opCLMy2jgQUNfaE3UBAel/wGa+aWcDavYl
+	ubkLwEwDxLlEu4tmuEyMcJTwsuhVVjM5Tr+BNkOr2r9DFyy9QpnoKyyaf6h1egZXWDNg=;
+Received: from [208.64.202.21] (helo=valvesoftware.com)
+	by smtp-03-tuk1.steampowered.com with smtp (Exim 4.90_1)
+	(envelope-from <noreply@steampowered.com>)
+	id 1o6qK4-000BEM-2p
+	for 2497789057@qq.com; Thu, 30 Jun 2022 02:18:52 -0700
+To: 2497789057@qq.com
+From: "Steam Store" <noreply@steampowered.com>
+Reply-To: <noreply@steampowered.com>
+Errors-To: <noreply@steampowered.com>
+X-Steam-Message-Type: CEmailCommunityMarketItemSold
+MIME-Version: 1.0
+Subject: =?UTF-8?B?5oKo5Zyo56S+5Yy65biC5Zy65LiK5ZSu5Ye65LqG5LiA5Lu254mp5ZOB?=
+Content-Type: multipart/alternative;
+ boundary="np62bd6a7c13b36"
+Message-Id: <E1o6qK4-000BEM-2p@smtp-03-tuk1.steampowered.com>
+Date: Thu, 30 Jun 2022 02:18:52 -0700
+
+This is a multi-part message in MIME format.
+--np62bd6a7c13b36
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+ppgod88810=EF=BC=8C=E6=82=A8=E5=A5=BD=EF=BC=81
+=E6=82=A8=E5=9C=A8=E7=A4=BE=E5=8C=BA=E5=B8=82=E5=9C=BA=E4=B8=AD=E4=B8=8A=
+=E6=9E=B6=E7=9A=84=E4=B8=80=E4=BB=B6=E7=89=A9=E5=93=81=E5=B7=B2=E5=94=AE=
+=E7=BB=99=E4=BA=86 9wurq=E3=80=82=E6=82=A8=E7=9A=84 Steam
+=E9=92=B1=E5=8C=85=E5=B7=B2=E8=8E=B7=E5=BE=97 13.21 CNY=E3=80=82
+
+=E8=BF=99=E5=B0=81=E7=94=B5=E5=AD=90=E9=82=AE=E4=BB=B6=E5=B0=86=E4=BD=9C=
+=E4=B8=BA=E6=82=A8=E7=9A=84=E6=94=B6=E6=8D=AE=E3=80=82=E6=82=A8=E4=B9=9F=
+=E5=8F=AF=E4=BB=A5=E9=9A=8F=E6=97=B6=E5=9C=A8=E7=BA=BF=E6=9F=A5=E7=9C=8B=
+=E6=82=A8=E7=9A=84=E6=B6=88=E8=B4=B9=E5=8E=86=E5=8F=B2=E8=AE=B0=E5=BD=95=
+=E3=80=82
+https://store.steampowered.com/account
+
+=E5=B1=95=E6=9C=9B=E5=B7=AB=E5=8C=BB=E8=BD=BD=E5=85=A5=E7=94=BB=E9=9D=A2: 1=
+3.21 CNY=0A
+=E6=80=BB=E8=AE=A1=EF=BC=9A                       13.21 CNY
+=E7=A1=AE=E8=AE=A4=E7=A0=81     3784727652919183412-3784727652919183413
+=E7=A1=AE=E8=AE=A4=E6=97=A5=E6=9C=9F          Thu Jun 30 02:18:52 2022
+
+Steam =E5=AE=A2=E6=9C=8D=E5=9B=A2=E9=98=9F
+https://help.steampowered.com
+
+=E5=9C=A8=E7=BD=91=E9=A1=B5=E4=B8=8A=E6=9F=A5=E7=9C=8B=E6=AD=A4=E6=B6=88=
+=E6=81=AF=EF=BC=9A<https://store.steampowered.com/email/CommunityMarketItem=
+Sold?sparams=3DeJyVUsFu1DAQ_ZUoB06wGzvr2EmXqBI3DlzggmSpcmJ3E-E4XnvMUiH-nfE2=
+raD0wmUyee_N-HnGP0urkhsnE-DBm7Irq_JtGYyyC-Ynuw7KIuDDqtMITi1Z8hmMWhCNyfs1gFn=
+UbBHefm9jpv16McHo3bj-oYwz5PoJwMdO7uV-MtbvXtFvTaNxkGDEEtKwhomK1xRZWK-s0jqYGJ=
+Glh5Zz0VaM357PWwtv1YMJm2PvT6sWQpB8u1EFPa1Wv84uKnwzcIdOl3gH5gegQCY2MiZTw8mAu=
+TY51jVGcc815mhPJs4y0vKGdgWpd5QUHz59le5lzwmWPK0jhP4IurjMGqb3sqRVJcv-qOfvhbLz=
+ySEU5tMEGRz6_3Xwxg3R3zzGo9wPPQZsnT-gX5xL8Yhnv5sAY-ivowZljQrO6LyFJ1VmgnJxzmj=
+NxYFT3jDakpaI-kDou3-xGmu0uu7_y5SKj8kVdVVUtCOiY7RAG3m1K-BLTNGEp9G3lxTOfxHb_B=
+6JX78B5Tbd5A>
+
+
+
+--np62bd6a7c13b36
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+=09<head>
+=09=09<meta content=3D"text/html;charset=3DUTF-8" http-equiv=3D"Content-Typ=
+e">
+=09=09<style media=3D"all" type=3D"text/css">
+=09=09td, p, h1, h3, a {font-family: Helvetica, Arial, sans-serif;}
+=09=09</style>
+=09</head>
+
+<body LINK=3D"#c6d4df" ALINK=3D"#c6d4df" VLINK=3D"#c6d4df" TEXT=3D"#c6d4df"=
+ style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 14px; color=
+: #c6d4df;" >
+
+<table style=3D"width: 538px; background-color: #393836;" align=3D"center" =
+cellspacing=3D"0" cellpadding=3D"0">
+=09<tr>
+=09=09<td style=3D"height: 65px; background-color: #171a21; border-bottom: =
+1px solid #4d4b48; padding: 0px;">
+              <img src=3D"https://store.steampowered.com/public/shared/imag=
+es/email/email_header_logo.png" width=3D"538" height=3D"65" alt=3D"Steam">
+        </td>
+=09</tr>
+=09<tr>
+=09=09<td bgcolor=3D"#17212e">
+
+=09=09=09<table width=3D"470" border=3D"0" align=3D"center" cellpadding=3D"=
+0" cellspacing=3D"0" style=3D"padding-left: 5px; padding-right: 5px; paddin=
+g-bottom: 10px;">
+
+=09=09=09=09<tr bgcolor=3D"#17212e">
+=09=09=09=09=09<td style=3D"padding-top: 32px; padding-bottom: 16px;">
+=09=09=09=09=09<span style=3D"font-size: 24px; color: #66c0f4; font-family:=
+ Arial, Helvetica, sans-serif; font-weight: bold;">
+=09=09=09=09=09=09ppgod88810=EF=BC=8C=E6=82=A8=E5=A5=BD=EF=BC=81=09=09=09=
+=09=09</span><br>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td style=3D"padding-top: 12px; padding-bottom: 24px;">
+=09=09=09=09=09<span style=3D"font-size: 17px; color: #c6d4df; font-family:=
+ Arial, Helvetica, sans-serif; font-weight: bold;">
+=09=09=09=09=09=09<p>=E6=82=A8=E5=9C=A8=E7=A4=BE=E5=8C=BA=E5=B8=82=E5=9C=
+=BA=E4=B8=AD=E4=B8=8A=E6=9E=B6=E7=9A=84=E4=B8=80=E4=BB=B6=E7=89=A9=E5=93=
+=81=E5=B7=B2=E5=94=AE=E7=BB=99=E4=BA=86 9wurq=E3=80=82=E6=82=A8=E7=9A=84 St=
+eam =E9=92=B1=E5=8C=85=E5=B7=B2=E8=8E=B7=E5=BE=97 13.21 CNY=E3=80=82</p>
+=09=09=09=09=09</span>
+=09=09=09=09=09<span style=3D"padding-top: 12px; font-size: 14px; color: #c=
+6d4df; font-family: Arial, Helvetica, sans-serif; font-weight: normal;">
+=09=09=09=09=09=09<p>=E8=BF=99=E5=B0=81=E7=94=B5=E5=AD=90=E9=82=AE=E4=BB=
+=B6=E5=B0=86=E4=BD=9C=E4=B8=BA=E6=82=A8=E7=9A=84=E6=94=B6=E6=8D=AE=E3=80=
+=82=E6=82=A8=E4=B9=9F=E5=8F=AF=E4=BB=A5=E9=9A=8F=E6=97=B6=E5=9C=A8=E7=BA=
+=BF=E6=9F=A5=E7=9C=8B=E6=82=A8=E7=9A=84<a style=3D"color: #c6d4df;" href=3D=
+"https://store.steampowered.com/account">=E6=B6=88=E8=B4=B9=E5=8E=86=
+=E5=8F=B2=E8=AE=B0=E5=BD=95</a>=E3=80=82</p>
+=09=09=09=09=09</span>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr bgcolor=3D"#121a25">
+                =09<td style=3D"padding: 20px; font-size: 12px; line-height=
+: 17px; color: #c6d4df; font-family: Arial, Helvetica, sans-serif;">
+                     =09<table width=3D"420" cellspacing=3D"4" style=3D"fon=
+t-size: 11px; color: #c6d4df; font-family: Arial, Helvetica, sans-serif; al=
+ign: left; lang=3D"x-western">
+                            <tr><td width=3D"200"><div align=3D"right"><b>=
+=E5=B1=95=E6=9C=9B=E5=B7=AB=E5=8C=BB=E8=BD=BD=E5=85=A5=E7=94=BB=E9=9D=A2&nb=
+sp;&nbsp;</b></div></td><td width=3D"202">13.21 CNY</td></tr>              =
+              <tr>
+                              <td width=3D"200"><div align=3D"right"><b>&nb=
+sp;</b></div></td>
+                              <td width=3D"202"><hr width=3D"180" color=3D"=
+#cccccc" align=3D"left" size=3D"1" noshade></td>
+                            </tr>
+                            <tr>
+                              <td width=3D"200"><div align=3D"right" style=
+=3D"font-size: 17px"><b>=E6=80=BB=E8=AE=A1=EF=BC=9A&nbsp;&nbsp;</b></div></=
+td>
+                              <td width=3D"202"><span style=3D"font-size: 1=
+8px">13.21 CNY&nbsp;&nbsp;</span></td>
+                            </tr>
+                            <tr>
+                              <td width=3D"200">&nbsp;</td>
+                              <td width=3D"202">&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td width=3D"200"><div align=3D"right"><b>=
+=E4=BA=A4=E6=98=93=E4=BF=A1=E6=81=AF&nbsp;&nbsp;</b></div></td>
+                              <td width=3D"202">&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td width=3D"200"><div align=3D"right"><b>=
+=E7=A1=AE=E8=AE=A4=E7=A0=81&nbsp;&nbsp;</b></div></td>
+                              <td width=3D"202">3784727652919183412-3784727=
+652919183413</td>
+                            </tr>
+                            <tr>
+                              <td width=3D"200"><div align=3D"right"><b>=
+=E7=A1=AE=E8=AE=A4=E6=97=A5=E6=9C=9F&nbsp;&nbsp;</b></div></td>
+                              <td width=3D"202">Thu Jun 30 02:18:52 2022</t=
+d>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+=09=09=09=09<tr>
+                =09<td style=3D"font-size: 12px; color: #6d7880; padding-to=
+p: 16px; padding-bottom: 60px;">
+=09=09=09=09=09=09Steam =E5=AE=A2=E6=9C=8D=E5=9B=A2=E9=98=9F<br>
+=09=09=09=09=09=09<a style=3D"color: #8f98a0;" href=3D"https://help.steampo=
+wered.com/">https://help.steampowered.com/</a><br>
+                =09</td>
+                </tr>
+
+=09=09=09</table>
+=09=09</td>
+=09</tr>
+=09<tr>
+    =09=09<td bgcolor=3D"#000000">
+
+    =09=09=09=09<table width=3D"460" height=3D"55" border=3D"0" align=3D"ce=
+nter" cellpadding=3D"0" cellspacing=3D"0">
+
+    =09=09=09=09=09<tr valign=3D"center">
+    =09=09=09=09=09=09<td width=3D"110">
+    =09=09=09=09=09=09=09<a href=3D"http://www.valvesoftware.com/" target=
+=3D"_blank" style=3D"color: #8B8B8B; font-size: 10px; font-family: Trebuche=
+t MS, Verdana, Arial, Helvetica, sans-serif; text-transform: uppercase;><sp=
+an style=3D"font-size: 10px; color: #8B8B8B; font-family: Trebuchet MS,Verd=
+ana,Arial,Helvetica,sans-serif; text-transform: uppercase">
+    =09=09=09=09=09=09=09<img src=3D"http://storefront.steampowered.com/v/i=
+mg/gift/VALVe.gif" alt=3D"VALVE" width=3D"92" height=3D"26" hspace=3D"0" vs=
+pace=3D"0" border=3D"0" align=3D"top"></a>
+    =09=09=09=09=09=09</td>
+    =09=09=09=09=09=09<td width=3D"350" valign=3D"center">
+    =09=09=09=09=09=09=09<span style=3D"color: #999999; font-size: 9px; fon=
+t-family: Verdana, Arial, Helvetica, sans-serif;">=C2=A9 Valve Corporation=
+=E3=80=82=E4=BF=9D=E7=95=99=E6=89=80=E6=9C=89=E6=9D=83=E5=88=A9=E3=80=82=
+=E6=89=80=E6=9C=89=E5=95=86=E6=A0=87=E5=9D=87=E4=B8=BA=E5=85=B6=E5=9C=A8=
+=E7=BE=8E=E5=9B=BD=E5=8F=8A=E5=85=B6=E5=AE=83=E5=9B=BD=E5=AE=B6/=E5=9C=
+=B0=E5=8C=BA=E7=9A=84=E5=90=84=E8=87=AA=E6=8C=81=E6=9C=89=E8=80=85=E6=89=
+=80=E6=9C=89=E3=80=82</span>
+    =09=09=09=09=09=09</td>
+    =09=09=09=09=09</tr>
+
+    =09=09=09=09</table>
+    =09=09</td>
+    </tr>
+
+
+</table>
+    <center style=3D"color: #000000; font-size: 11px; margin-bottom: 4px;">=
+=E6=9F=A5=E7=9C=8B=E6=AD=A4=E6=B6=88=E6=81=AF=E6=97=B6=E9=81=87=E5=88=B0=
+=E9=97=AE=E9=A2=98=EF=BC=9F  <a href=3D"https://store.steampowered.com/emai=
+l/CommunityMarketItemSold?sparams=3DeJyVUsFu1DAQ_ZUoB06wGzvr2EmXqBI3DlzggmS=
+pcmJ3E-E4XnvMUiH-nfE2raD0wmUyee_N-HnGP0urkhsnE-DBm7Irq_JtGYyyC-Ynuw7KIuDDqt=
+MITi1Z8hmMWhCNyfs1gFnUbBHefm9jpv16McHo3bj-oYwz5PoJwMdO7uV-MtbvXtFvTaNxkGDEE=
+tKwhomK1xRZWK-s0jqYGJGlh5Zz0VaM357PWwtv1YMJm2PvT6sWQpB8u1EFPa1Wv84uKnwzcIdO=
+l3gH5gegQCY2MiZTw8mAuTY51jVGcc815mhPJs4y0vKGdgWpd5QUHz59le5lzwmWPK0jhP4Iurj=
+MGqb3sqRVJcv-qOfvhbLzySEU5tMEGRz6_3Xwxg3R3zzGo9wPPQZsnT-gX5xL8Yhnv5sAY-ivow=
+ZljQrO6LyFJ1VmgnJxzmjNxYFT3jDakpaI-kDou3-xGmu0uu7_y5SKj8kVdVVUtCOiY7RAG3m1K=
+-BLTNGEp9G3lxTOfxHb_B6JX78B5Tbd5A">=E7=82=B9=E5=87=BB=E6=AD=A4=E5=A4=84</a>=
+</center>
+
+</body>
+</html>
+
+
+--np62bd6a7c13b36--

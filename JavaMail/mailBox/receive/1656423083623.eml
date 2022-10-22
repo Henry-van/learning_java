@@ -1,0 +1,978 @@
+Received: from o37.pigeon.quora.com (o37.pigeon.quora.com [18.214.110.132])
+	by newxmmxszb5-1.qq.com (NewMX) with SMTP id 16D05AFD
+	for <2497789057@qq.com>; Tue, 14 Jun 2022 10:05:45 +0800
+X-QQ-mid: xmmxszb5-1t1655172345trxnsejoy
+X-QQ-XMAILINFO: NtKu8ZqGWm0vGtuFzwD8U57U2QiMjsvqxZP7+fOlUngbA/KMW6tNid+NwjZGsA
+	 dH3y4A0DWlLDB8nB2yRQD3m/Oi5EpCEG50ftVfkfa+fmqTIinnB6HZFSAqTYgk7hlaKy3OUrMgms
+	 UrW62a8nMvtNpb7sPGYz5n5Kne+Q0bX9yYvKPWZh0lUJnfHSB0wgeq3S5CcmM4yHqB6QJG850gCB
+	 ku7KuGcB9N8JvRV1Zm9x7QWo9Q/VblptSGZ9hr8Mgii+CV8olEcKN/+P5ZVrftbSK7rhZ4Q7Dsdl
+	 Nr2QuPLmuASjJAia4CcyCOpHW9Dwx5iQDS9aJFEvCb7F5rs792HHwX++sBRZkh5/C8DnLcT8tL16
+	 qtdQNpAgKKZoLYJscoIVKGRIvHcNwM0YWw/8fKbv2A6NICP8xm2r2YdaTUgACC1Nw64Nf7IYaLT4
+	 7OnGTx+y3OYWk/6yNfnmY55yh+RplA9GD0Hx/3917NX2PsqEQdKyJBOA/ewZlRS7KzhrB7Clj7L7
+	 zB7pyycX0FVqgILGgTq/eLD4d4/LwVgukYAs+ktlfEmliLqk13ReOSUmH415bBZVQiF7r1qNArIh
+	 nLW9KWhqxXuBsoeKrqvt+PdCjyJADq91Fd5ja6ly0qiiasdVYW3y9QpikHSMA/TFbzidB86j2VFh
+	 0nd8a0j1bvnPtDbViWTWsWY5sTQf7cD4RBBg6GQVrIE2Br8FGe4DPJT9uvM5mlE6x1WtGMPhwfzZ
+	 511cGVmhs1zltAYs1xQDds/cm+jk3w49XcSxH4SoNe4o7CC5JMqpJ9QAj0gdIqUHU8z3Q20lTUss
+	 S0Yt3sYMqzueCMzHJM+cWsNpYhaKJcN9kjuD4tbcjyI9T7MsNMLv9DRiTvkKYwBviM8MfrXAnPxT
+	 TN3nL9ZtXAdKhOXds99on0Ee5oaWNQ+SWB0Mr01jYUWHAQ7pkZJdJPh3im81P+8/0FIz15FOpxIL
+	 kqXYlTKdbVQxVYauPlsJKbspo3rkxo4iigRSHeVUQw4rCvKEz8D/H+20mWKwVqDMetTSz130ALrB
+	 9b8cvBzn6dauuPSOP24rNqY9yR8ykUk+i2uzCZMhs9mL1U3FmoYV6qTimT8zRtogOk/yOouzdbYv
+	 fFE+7uz3tsDOZCzHqxSJToXqfCP1q3ZewY7tiaUOUHKSko6vqdwQx5uP1E7krfij2hoida2FaiQp
+	 0L4IcGQo4LAjyVdvefXwsoFXiLf5HRVtwOkcPJse6yW7s5al4wlHMrIAUUiK7/A7pN4sIugYzuYq
+	 bvcsLTuD1ARzZP
+Sender: noreply@quora.com
+Received: 
+	by pigeon-at-10005 (OpenSMTPD) with ESMTP id 2a67543a
+	for <2497789057@qq.com>;
+	Tue, 14 Jun 2022 02:05:44 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=quoramail.com; h=
+	content-type:mime-version:from:to:subject:list-unsubscribe:date
+	:message-id; s=pigeon; bh=3+Xlgl9sjhOW6ViWPvsJJkm/Nnw=; b=EHnTz0
+	SBMnUSAmYrnkCzvXILsH7e6kQ6fmLYS50Q7A5ye12kfoCxOAsosrXqhgwPgoQULA
+	6jJRn4DWRX00UuD0EqlujKMsE/Y2c5aNJ1iy/4bijVvXnSdLd31G00vXv/QFi/Rb
+	ecPCD0PYB9Lr+/B0ajRqJjQ9obsFPHD/tWgaivLqEq8ZOTWRjhcvEXEsiRPUUr6C
+	pb+WtTkBNMlpG6u+vDFRooBIxlxA7zWhA4xmve6ketRBI9viL6Aevon0WCm7w8WX
+	kV8ZHjlB20fdFD0pYBwALtanxB82GfzOli71HLu4RP04NJz6+GXXdujE3ioU9DOq
+	+55XA9pHXaPG0OFA==
+Content-Type: multipart/alternative;
+ boundary="===============5476207743559450334=="
+MIME-Version: 1.0
+From: iPhone iPad MacBook iOS <iosapps-space@quoramail.com>
+To: 2497789057@qq.com
+Subject: =?utf-8?q?Are_iPhones_really_worth_the_money_or_is_it_just_a_hype=3F?=
+List-Unsubscribe: <https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=cea21cb9ef34404895627c19b2d31751&ish=1&t=1655172343282568&token=1df8d9ee2ae2050cfebada0d553800a452ee25906a2e7e15f2c73867bdfea790a9a4ce7ec827f6f6fd7929f4b7886f40b4d7bba24e68f4f11087667851019049&type=146&uid=1542814342>
+X-CID: PC9u1ue16NF_evO3exXXvorABrhy7EqLLPmK6aJ2WmpIKHmi8MlPHu6SzAhbU8jtHSRkcu3Y8zMFye9Y4eVRBzxfnoUzLo8ltp4FWR50k8k6VRZQWi8rfR2toPXGZUaZhXRymzr0_CMiaDc02hdjBZP4kAABAgA=
+Date: Tue, 14 Jun 2022 02:05:44 +0000
+Message-ID: <PC9u1ue16NF_evO3exXXvorABrhy7EqLLPmK6aJ2WmpIKHmi8MlPHu6SzAhbU8jtHSRkcu3Y8zMFye9Y4eVRBzxfnoUzLo8ltp4FWR50k8k6VRZQWi8rfR2toPXGZUaZhXRymzr0_CMiaDc02hdjBZP4kAABAgA=@t2.msgid.quoramail.com>
+X-SMTPAPI: =?utf-8?q?=7B=22unique=5Fargs=22=3A_=7B=22Message-ID=22=3A_=22=3CPC9u1ue16NF?=
+ =?utf-8?q?=5FevO3exXXvorABrhy7EqLLPmK6aJ2WmpIKHmi8MlPHu6SzAhbU8jtHSRkcu3Y8z?=
+ =?utf-8?q?MFye9Y4eVRBzxfnoUzLo8ltp4FWR50k8k6VRZQWi8rfR2toPXGZUaZhXRymzr0=5F?=
+ =?utf-8?q?CMiaDc02hdjBZP4kAABAgA=3D=40t2=2Emsgid=2Equoramail=2Ecom=3E=22=2C?=
+ =?utf-8?q?_=22account=22=3A_=22notif=22=2C_=22email=5Ftype=22=3A_146=2C_=22?=
+ =?utf-8?q?ip=5Fpool=22=3A_=22notif=22=2C_=22X-QMSG=22=3A_=22-sDeKuPI68Qjmvb?=
+ =?utf-8?q?Irj1OoZSrB4hWHkAxpgJZh6wqaUP43zHk57xvOVoOflCkmmLpZZ0YsJnwo9f7UlTf?=
+ =?utf-8?q?Yp2KnZuynsFJDUkuq=5Fijg-MCHfUEa5D04PLTV4NjLq1piBGznc6z4D64VFX5Zfd?=
+ =?utf-8?q?CI7nNaVQOiF08dA8XXrzWmG3JWlTgCjFWJyEEwMvEAm8xirz4SZBHU85NZIe7QTsu?=
+ =?utf-8?q?KIk0Knu=5Fkl2IENSRkrNaFbmHYFEEDdUvr902YedYBm0=5F3OzZyWuV=5FUUVCw6?=
+ =?utf-8?q?BeIoJfY4AaKuy6YT0ESE=5F9=5Fn6W0rCuY43Ff1TVoC=5FNzEkWXwsfsoam3bDlx?=
+ =?utf-8?q?opfC7QgBOK3VCWxAtUdG8O=5F2nNtMEA8-ANCI0bbMpP-O09yQRQKbO1TDx0y28Nu?=
+ =?utf-8?q?VRWfHjQeeGt5uNipzb55bZlVeVe-lbp1V4o4V4lbVb4AjTPlxHdsDV7U9jMAnrERq?=
+ =?utf-8?q?n4ud61MizHPmFpYlnww5TEaHvpNy46kgEurP=5Fp8G5SfjGeQ9CYYwPBsc473PR9s?=
+ =?utf-8?q?gABAgA=3D=22=7D=2C_=22category=22=3A_=5B=22account=5Fnotif=22=2C_?=
+ =?utf-8?q?=22email=5Ftype=5F146=22=2C_=22ip=5Fpool=5Fnotif=22=5D=2C_=22filt?=
+ =?utf-8?q?ers=22=3A_=7B=22bypass=5Flist=5Fmanagement=22=3A_=7B=22settings?=
+ =?utf-8?q?=22=3A_=7B=22enable=22=3A_1=7D=7D=7D=2C_=22ip=5Fpool=22=3A_=22not?=
+ =?utf-8?q?if=22=7D?=
+X-QMSG: =?utf-8?q?-sDeKuPI68QjmvbIrj1OoZSrB4hWHkAxpgJZh6wqaUP43zHk57xvOVoOflCkmmLpZZ?=
+ =?utf-8?q?0YsJnwo9f7UlTfYp2KnZuynsFJDUkuq=5Fijg-MCHfUEa5D04PLTV4NjLq1piBGzn?=
+ =?utf-8?q?c6z4D64VFX5ZfdCI7nNaVQOiF08dA8XXrzWmG3JWlTgCjFWJyEEwMvEAm8xirz4SZ?=
+ =?utf-8?q?BHU85NZIe7QTsuKIk0Knu=5Fkl2IENSRkrNaFbmHYFEEDdUvr902YedYBm0=5F3Oz?=
+ =?utf-8?q?ZyWuV=5FUUVCw6BeIoJfY4AaKuy6YT0ESE=5F9=5Fn6W0rCuY43Ff1TVoC=5FNzEk?=
+ =?utf-8?q?WXwsfsoam3bDlxopfC7QgBOK3VCWxAtUdG8O=5F2nNtMEA8-ANCI0bbMpP-O09yQR?=
+ =?utf-8?q?QKbO1TDx0y28NuVRWfHjQeeGt5uNipzb55bZlVeVe-lbp1V4o4V4lbVb4AjTPlxHd?=
+ =?utf-8?q?sDV7U9jMAnrERqn4ud61MizHPmFpYlnww5TEaHvpNy46kgEurP=5Fp8G5SfjGeQ9C?=
+ =?utf-8?q?YYwPBsc473PR9sgABAgA=3D?=
+
+--===============5476207743559450334==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Trending Stories from iPhone iPad MacBook iOS
+
+-----
+
+
+Question: Are iPhones really worth the money or is it just a hype?
+
+Answer from Marshall
+
+This is where an individual=E2=80=99s choice is more informative than any s=
+tatistical, innovation, or usability argument might persuade you. I find th=
+e best way to get this answer is=20
+Read More: https://iosapps.quora.com/Are-iPhones-really-worth-the-money-or-=
+is-it-just-a-hype-1
+-----
+Question: Do more people use WhatsApp over iMessage now?
+
+Answer from Nanang Krissetiyanto
+
+Yes, as long whatsapp still free. Just agree that iMessage is not free sinc=
+e we need apple product to use it, and for now apple known for its expensiv=
+e price =F0=9F=98=85
+Read More: https://iosapps.quora.com/Do-more-people-use-WhatsApp-over-iMess=
+age-now-1
+-----
+Solved IOS 15.5 slow loading Safari and also battery drain
+
+
+iPhone 13 pro. So after latest IOS update to 15.5 the loading of sites in s=
+afari has been so slow and sometimes times out. No issue with Chrome. Also =
+my battery seemed to drain twice to three times as fast (in general, not sp=
+ecifically related to safari).
+
+After some research seems there is an issue with having on both private rel=
+ay and limit IP address tracking. Something to do with where traffic goes a=
+nd some congestion or technology snafus. Not sure. But fix is to turn off b=
+oth limit ip address tracking (found under cellular and then cellular data =
+options) and also turn off private relay found under ICloud. Obviously I wo=
+uld prefer to leave these on for privacy but not at expense of these issues.
+
+Two days and safari back to normal and battery seems way better too. The fi=
+x I read about was for slow safari loading (not battery performance) but it=
+ seems to have helped/fixed both. Just an FYI.
+
+
+source: r/iphone
+
+https://enoumen.com/2020/11/06/smartphone-101-pick-a-smartphone-for-me-andr=
+oid-or-ios-apple-iphone-or-samsung-or-huawei/
+
+Read More: https://www.quora.com/qemail/track_click?aoid=3D98Xw0dVmmdm&aoty=
+=3D4&aty=3D4&cp=3D0&ct=3D1655172343269777&et=3D146&id=3Dcea21cb9ef344048956=
+27c19b2d31751&notif_type=3D418&request_id=3D418&snid=3D37881541641&src=3D1&=
+st=3D1655172343272430&stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+6=
+6593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_t=
+ypes.tribe_post%3A+10%3E%2C+67090923)%5D&tribe_item_ids=3DVhzVjD7MpCr%7CVCa=
+6uFyIBZA%7Cmqcwl9YRDx8&uid=3DbwCNT6KYQ8D&v=3D0
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/tr=
+ack_click?aoid&aoty=3D14&aty=3D4&cp=3D0&ct=3D1655172343269777&et=3D146&id=
+=3Dcea21cb9ef34404895627c19b2d31751&notif_type=3D418&request_id=3D418&snid=
+=3D37881541641&src=3D1&st=3D1655172343272430&stories=3D%5B(%3Cstory_types.t=
+ribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+6=
+7974654)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67090923)%5D&tribe_item_=
+ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&uid=3DbwCNT6KYQ8D&v=3D0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_=
+optout/qemail_unsubscribe?email_track_id=3Dcea21cb9ef34404895627c19b2d31751=
+&t=3D1655172343299781&token=3D28f8563d862ed56d319df9d0f6dc2a0cafc626a2f3acf=
+760a1d158f177fb668750ab12c55e4e22f2ed31a7eac61cf8d6d379290af97fcf92d9c362dd=
+b09ec06a&type=3D146&uid=3D1542814342
+--===============5476207743559450334==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<style type=3D"text/css">@media screen and (max-width: 480px) {
+    .background_inner {
+        padding: 0;
+        background: #fff
+        }
+    .container {
+        padding: 0 8px 16px
+        }
+    .footer_container {
+        border-top: 1px solid #e2e2e2
+        }
+    .AnnualThankYouEmail .background_inner {
+        padding: 10px 0
+        }
+    .polish_background_inner {
+        padding: 10px 0
+        }
+    .polish_header_logo img.header_logo_img {
+        width: 118px;
+        height: 40px
+        }
+    .polish_header_title {
+        font-size: 16px;
+        padding-top: 0;
+        padding-bottom: 5px
+        }
+    .polish_question_text {
+        line-height: 1.3
+        }
+    .polish_story .voters_list, .polish_story .user_link {
+        line-height: 1.5
+        }
+    .polish_story .truncated_q_text, .polish_story .qtext_para {
+        line-height: 1.5
+        }
+    .polish_story .content_header {
+        padding: 6px 0
+        }
+    .EndOfYearLookbackEmail .stat_large {
+        font-size: 28px
+        }
+    .EndOfYearLookbackEmail .content_text {
+        text-align: center
+        }
+    .EndOfYearLookbackEmail .half_column {
+        width: 100%
+        }
+    .EndOfYearLookbackEmail .img_wrapper {
+        margin: 10px auto
+        }
+    .TopicDigestEmail .topic_digest_header_logo img.polish_header_logo_img {
+        width: 89px;
+        height: 30px
+        }
+    .TopicDigestEmail .topic_digest_header_title {
+        font-size: 16px;
+        padding-top: 0;
+        padding-bottom: 5px
+        }
+    .WriteDigestEmail .question_text .rendered_qtext {
+        font-size: 16px
+        }
+    .email_app_link-content {
+        display: block;
+        text-align: center
+        }
+    .email_app_link-text, .email_app_link-badges_wrapper {
+        display: block
+        }
+    .email_app_link-text {
+        padding-bottom: 0;
+        box-sizing: border-box
+        }
+    .email_app_link-badges_wrapper {
+        padding-left: 10px
+        }
+    }
+@media screen and (max-width: 600px) {
+    .DigestEmail .mobile_image.digest_ad {
+        display: table;
+        width: 92vw
+        }
+    .DigestEmail .desktop_image.digest_ad {
+        display: none
+        }
+    }</style>
+<style type=3D"text/css">h1 a:active {color:red}
+h2 a:active {color:red}
+h3 a:active {color:red}
+h4 a:active {color:red}
+h5 a:active {color:red}
+h6 a:active {color:red}
+h1 a:visited {color:purple}
+h2 a:visited {color:purple}
+h3 a:visited {color:purple}
+h4 a:visited {color:purple}
+h5 a:visited {color:purple}
+h6 a:visited {color:purple}
+banner_wrapper .banner_link:hover {text-decoration:underline}
+polish_button_wrapper .polish_action_button:hover {opacity:0.8}
+@media (max-width: 812px) {
+    .ad_email_background .ad_table {
+        margin: 0
+        }
+    }
+banner_wrapper .banner_link:hover {text-decoration:underline}
+polish_button_wrapper .polish_action_button:hover {opacity:0.8}
+@media (max-width: 812px) {
+    .ad_email_background .ad_table {
+        margin: 0
+        }
+    }
+banner_wrapper .banner_link:hover {text-decoration:underline}
+polish_button_wrapper .polish_action_button:hover {opacity:0.8}
+@media (max-width: 812px) {
+    .ad_email_background .ad_table {
+        margin: 0
+        }
+    }
+item_content ._facepile_wrapper ._facepile_photo:nth-child(1) {z-index:20}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(2) {z-index:19}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(3) {z-index:18}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(4) {z-index:17}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(5) {z-index:16}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(6) {z-index:15}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(7) {z-index:14}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(8) {z-index:13}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(9) {z-index:12}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(10) {z-index:11}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(11) {z-index:10}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(12) {z-index:9}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(13) {z-index:8}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(14) {z-index:7}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(15) {z-index:6}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(16) {z-index:5}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(17) {z-index:4}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(18) {z-index:3}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(19) {z-index:2}
+item_content ._facepile_wrapper ._facepile_photo:nth-child(20) {z-index:1}
+item_content ._facepile_wrapper ._facepile_photo:not(:first-child) {margin=
+-left:-3px}
+item_content ._facepile_wrapper.size_small ._facepile_photo:not(:first-chi=
+ld) {margin-left:-2px}
+banner_wrapper .banner_link:hover {text-decoration:underline}
+polish_button_wrapper .polish_action_button:hover {opacity:0.8}
+@media (max-width: 812px) {
+    .ad_email_background .ad_table {
+        margin: 0
+        }
+    }</style>
+</head>
+<body class=3D"email_body" style=3D"-ms-text-size-adjust:100%; -webkit-text=
+-size-adjust:100%; margin:0; padding:0; width:100%" width=3D"100%"><div cla=
+ss=3D"q_ltr u-ltr lang_en" dir=3D"ltr" lang=3D"en"><table class=3D"BaseNoti=
+fEmail EmailComponent ScheduledSystemEmail NotifEmail Email background" cel=
+lpadding=3D"0" border=3D"0" style=3D'border-collapse:collapse; mso-table-ls=
+pace:0; mso-table-rspace:0; background:#eee; font-family:-apple-system, Bli=
+nkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helve=
+tica Neue", sans-serif; font-size:13px; height:100%; text-align:left; width=
+:100%' height=3D"100%" align=3D"left" width=3D"100%"><tbody><tr><td class=
+=3D"polish_background_inner" align=3D"center" valign=3D"top" style=3D"borde=
+r-collapse:collapse; background:#fff; padding:0"><table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse; mso-table-=
+lspace:0; mso-table-rspace:0"><tbody>
+<tr><td class=3D"container" align=3D"left" style=3D"border-collapse:collaps=
+e; background:#fff; border-radius:3px; height:100%; padding:32px; width:525=
+px" height=3D"100%" width=3D"525"><table class=3D"polish_container_inner" s=
+tyle=3D"border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; b=
+order:0; cellpadding:0; cellspacing:0; width:100%" width=3D"100%"><tbody>
+<tr><td class=3D"polish_header" style=3D"border-collapse:collapse"><span st=
+yle=3D"display:none;font-size:1px;color:white;line-height:1px;max-height
+        :0px;max-width:0px;opacity:0;overflow:hidden;">This is where an ind=
+ividual=E2=80=99s choice is more informative than any statistic</span></td>=
+</tr>
+<tr class=3D"body_container" id=3D"simple-content-row"><td class=3D"body_co=
+ntent" bgcolor=3D"#ffffff" style=3D"border-collapse:collapse"><table style=
+=3D"border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width=
+:100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbo=
+dy><tr>
+<td style=3D"border-collapse:collapse"><table style=3D"border-collapse:coll=
+apse; mso-table-lspace:0; mso-table-rspace:0; width:100%" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><tr><td style=3D"bord=
+er-collapse:collapse">
+<img class=3D"tracking_img" style=3D"-ms-interpolation-mode:bicubic; outlin=
+e:0; text-decoration:none; display:none" width=3D"1" height=3D"1" src=3D"ht=
+tps://www.quora.com/qemail/mark_read?ct=3D1655172343269777&amp;et=3D146&amp=
+;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;request_id=
+=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp;sto=
+ries=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_typ=
+es.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10%3E%=
+2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx=
+8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0"><table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" width=3D"100%" style=3D"border-collapse:collapse; mso-table=
+-lspace:0; mso-table-rspace:0"><tbody><tr><td style=3D"border-collapse:coll=
+apse"><div class=3D"tribe_email_header"><a href=3D"https://www.quora.com/qe=
+mail/track_click?aoid&amp;aoty=3D7&amp;aty=3D4&amp;cp=3D12&amp;ct=3D1655172=
+343269777&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_=
+type=3D418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=
+=3D1655172343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C=
++66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory=
+_types.tribe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr=
+%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"colo=
+r:#2b6dad; text-decoration:none"><div class=3D"cover_photo_wrapper"><div cl=
+ass=3D"cover_photo" style=3D"border-radius:4px; height:100px; overflow:hidd=
+en; width:100%" height=3D"100" width=3D"100%"><img class=3D"TribeCoverPhoto=
+ TribeCoverPhotoMain u-bg--cover tribe_header_background tribe_header_backg=
+round_main u-width--100 u-border-radius-top--4" src=3D"http://qph.fs.quorac=
+dn.net/main-custom-tc-1584741-1035x207-bwberisuoszifnfyqpzjhsfnavzeudvx.jpe=
+g" alt=3D"Space Cover Photo" style=3D"-ms-interpolation-mode:bicubic; outli=
+ne:0; text-decoration:none; border:0; height:100px; object-fit:cover; width=
+:100%; background-size:cover" height=3D"100" width=3D"100%"></div></div>
+<div class=3D"tribe_info_wrapper" style=3D"padding-top:16px">
+<div class=3D"tribe_icon_wrapper" style=3D"display:inline-block; vertical-a=
+lign:top" valign=3D"top"><div class=3D"tribe_icon" style=3D"display:inline-=
+block; height:50px; width:50px" height=3D"50" width=3D"50"><img class=3D"u-=
+inline-block u-border-radius--ellipse tribe-purple has_border TribeIcon Tri=
+beIconLarge" src=3D"http://qph.fs.quoracdn.net/main-thumb-ti-1584741-100-ug=
+zzjedhsrzzdlekhvjujbvecofuxyeh.jpeg" style=3D"-ms-interpolation-mode:bicubi=
+c; outline:0; text-decoration:none; border:0; border-radius:100px; height:5=
+0px; width:50px" height=3D"50" width=3D"50"></div></div>
+<div class=3D"tribe_details_wrapper" style=3D"display:inline-block; padding=
+-left:8px; width:calc(100% - 66px)" width=3D"calc(100% - 66px)"><div class=
+=3D"tribe_info">
+<div class=3D"tribe_name" style=3D"color:#333; font-size:19px; font-weight:=
+bold; letter-spacing:-0.5px; line-height:1.25">
+<span id=3D"ws4dEroO10"><span class=3D"u-font-weight--bold" style=3D"font-w=
+eight:bold"><span class=3D"bugfix_t111556"><span class=3D"rendered_qtext" s=
+tyle=3D"word-break:break-word">iPhone iPad MacBook iOS</span></span></span>=
+</span><span class=3D"follower_count" style=3D"color:#999; font-size:13px; =
+font-weight:normal"><span class=3D"bullet"> =C2=B7 </span>110.4k followers<=
+/span>
+</div>
+<div class=3D"tribe_description" style=3D"color:#333; font-size:13px"><div =
+class=3D"u-relative u-flex u-text--gray-dark u-sans-font-main--small pass_c=
+olor_to_child_links" style=3D'font-family:-apple-system, BlinkMacSystemFont=
+, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", san=
+s-serif; font-size:13px; line-height:1.4; color:#333; display:flex'><span i=
+d=3D"ws4dEroO18"><span class=3D"rendered_qtext" style=3D"word-break:break-w=
+ord">All about iPhones, iPad, iOS Apps, MacBooks, MacOs, Apple App store, i=
+Phone Apps</span></span></div></div>
+</div></div>
+</div></a></div></td></tr></tbody></table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbo=
+dy><tr><td class=3D"section_header" style=3D"border-collapse:collapse; bord=
+er-bottom:1px solid #e2e2e2; font-size:12px; margin-top:20px; padding-botto=
+m:4px; text-transform:uppercase"></td></tr></tbody></table>
+<div class=3D"scheduled_system_email">
+<div class=3D"no_para_breaks"><div data-clog-trigger=3D"impression" data-cl=
+og-metadata=3D'{"action_log_target": {"type": 33, "hash": "0|1|1|358874764"=
+}}' data-clog-event-type=3D"ActionLogImpression" id=3D"__w2_ws4dEroO12_acti=
+onable"><table class=3D"story_wrapper" cellspacing=3D"0" border=3D"0" style=
+=3D"border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width=
+:100%" width=3D"100%"><tbody><tr><td class=3D"story  first_story" style=3D"=
+border-collapse:collapse; border-bottom:0; padding:20px 0; padding-top:15px=
+"><table class=3D"digest_story_wrapper" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0; mso-ta=
+ble-rspace:0; width:100%" width=3D"100%"><tbody>
+<tr><td class=3D"reason" style=3D"border-collapse:collapse; padding-bottom:=
+4px"><table class=3D"digest_reason" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0; mso-table-=
+rspace:0"><tbody><tr><td valign=3D"top" style=3D"border-collapse:collapse">=
+</td></tr></tbody></table></td></tr>
+<tr><td style=3D"border-collapse:collapse"><a class=3D"question_text" href=
+=3D"https://www.quora.com/qemail/track_click?al_imp=3DeyJ0eXBlIjogMzMsICJoY=
+XNoIjogIjB8MXwxfDM1ODg3NDc2NCJ9&amp;al_pri=3D1&amp;aoid=3DokWd2jYr2P8&amp;a=
+oty=3D2&amp;aty=3D4&amp;cp=3D1&amp;ct=3D1655172343269777&amp;et=3D146&amp;i=
+d=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;request_id=3D=
+418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp;storie=
+s=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_types.=
+tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+=
+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&a=
+mp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#333; text-decoration:none; =
+display:block; font-size:19px; font-weight:bold; letter-spacing:-0.5px; lin=
+e-height:1.4"><span class=3D"rendered_qtext" style=3D"word-break:break-word=
+">Are iPhones really worth the money or is it just a hype?</span></a></td><=
+/tr>
+<tr><td style=3D"border-collapse:collapse"><table class=3D"item_content_wra=
+pper" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-coll=
+apse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width=3D=
+"100%"><tbody>
+<tr><td class=3D"content_header metadata" style=3D'border-collapse:collapse=
+; padding:8px 0; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI",=
+ Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif'><tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collaps=
+e:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td class=3D"content_header_photo" style=3D'border-collapse:collapse; font-=
+family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, =
+Ubuntu, Cantarell, "Helvetica Neue", sans-serif; vertical-align:top' valign=
+=3D"top"><a href=3D"https://www.quora.com/qemail/track_click?aoid=3DRWhujHU=
+cBgq&amp;aoty=3D3&amp;aty=3D4&amp;cp=3D1&amp;ct=3D1655172343269777&amp;et=
+=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;r=
+equest_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D165517234327243=
+0&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3C=
+story_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%=
+3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cm=
+qcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#2b6dad; text-de=
+coration:none"><div id=3D"ws4dEroO34">
+<div class=3D"hover_menu hidden white_bg show_nub" id=3D"__w2_ws4dEroO35_me=
+nu"><div class=3D"hover_menu_contents" id=3D"__w2_ws4dEroO35_menu_contents"=
+> </div></div>
+<span class=3D"photo_tooltip HoverMenu IdentityPhoto Photo" id=3D"__w2_ws4d=
+EroO35_link"><img class=3D"profile_photo_img" src=3D"http://qph.fs.quoracdn=
+net/main-thumb-1557251766-50-lvikaefambthrevxkhzetivfisskpjkb.jpeg" alt=3D=
+"Marshall" style=3D"-ms-interpolation-mode:bicubic; outline:0; text-decorat=
+ion:none; border:0; border-radius:100px; display:block; height:40px; width:=
+40px; border-style:none" height=3D"40" width=3D"40"></span>
+</div></a></td>
+<td class=3D"content_header_text" style=3D'border-collapse:collapse; paddin=
+g-left:8px; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Robo=
+to, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; color:#33=
+3'><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-=
+collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style=3D'border-collapse:collapse; font-family:-apple-system, Blink=
+MacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helveti=
+ca Neue", sans-serif'>
+<a class=3D"user_link" href=3D"https://www.quora.com/qemail/track_click?aoi=
+d=3DRWhujHUcBgq&amp;aoty=3D3&amp;aty=3D4&amp;cp=3D1&amp;ct=3D16551723432697=
+77&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D=
+418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D165517=
+2343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535=
+)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tr=
+ibe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uF=
+yIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#333; t=
+ext-decoration:none; font-weight:bold; line-height:1.4; font-size:15px">Mar=
+shall</a><span style=3D"font-size:15px; line-height:1.4">, former Former Pr=
+oducer and Audio guy</span>
+</td></tr>
+<tr><td class=3D"answer_details" style=3D'border-collapse:collapse; color:#=
+999; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxy=
+gen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size:13px'>=
+<a href=3D"https://www.quora.com/qemail/track_click?aoid=3D14spSsuxMfi&amp;=
+aoty=3D1&amp;aty=3D4&amp;cp=3D1&amp;ct=3D1655172343269777&amp;et=3D146&amp;=
+id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;request_id=
+=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp;sto=
+ries=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_typ=
+es.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10%3E%=
+2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx=
+8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#999; text-decoration:non=
+e">Written May 30</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td class=3D"item_content" style=3D'border-collapse:collapse; color:#33=
+3; display:block; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI"=
+, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; fon=
+t-size:15px; line-height:1.4'><a href=3D"https://www.quora.com/qemail/track=
+_click?al_imp=3DeyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDM1ODg3NDc2NCJ9&amp;al=
+_pri=3D0&amp;aoid=3D14spSsuxMfi&amp;aoty=3D1&amp;aty=3D4&amp;cp=3D1&amp;ct=
+=3D1655172343269777&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&=
+amp;notif_type=3D418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=3D=
+1&amp;st=3D1655172343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+=
+10%3E%2C+66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(=
+%3Cstory_types.tribe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhz=
+VjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=
+=3D"color:#333; text-decoration:none"><div id=3D"ws4dEroO26"><div class=3D"=
+truncated_q_text truncated_para_breaks TruncatedAnswerForDigestEmail Trunca=
+tedAnswer TruncatedQText TruncatedAnswerForEmail" id=3D"__w2_ws4dEroO27_tru=
+ncated" style=3D"line-height:1.6">
+<span class=3D"rendered_qtext" style=3D"word-break:break-word"><p class=3D"=
+qtext_para u-ltr u-text-align--start" style=3D"margin:1em 0; line-height:1.=
+6">This is where an individual=E2=80=99s choice is more informative than an=
+y statistical, innovation, or usability argument might persuade you. I find=
+ the best way to get this answer ...</p></span> <a class=3D"read_more_blue"=
+ href=3D"https://www.quora.com/qemail/track_click?al_imp=3DeyJ0eXBlIjogMzMs=
+ICJoYXNoIjogIjB8MXwxfDM1ODg3NDc2NCJ9&amp;al_pri=3D8&amp;aoid=3D14spSsuxMfi&=
+amp;aoty=3D1&amp;aty=3D4&amp;cp=3D1&amp;ct=3D1655172343269777&amp;et=3D146&=
+amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;request_=
+id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp;s=
+tories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_t=
+ypes.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10%3=
+E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YR=
+Dx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#168de9; text-decoratio=
+n:none">Read More =C2=BB</a>
+</div></div>
+<div class=3D"non_quora_share_embed_wrapper"><div class=3D"item_metadata" s=
+tyle=3D'padding-top:4px; color:#999; font-family:-apple-system, BlinkMacSys=
+temFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neu=
+e", sans-serif; font-size:14px'><a href=3D"https://www.quora.com/qemail/tra=
+ck_click?al_imp=3DeyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDM1ODg3NDc2NCJ9&amp;=
+al_pri=3D0&amp;aoid=3D14spSsuxMfi&amp;aoty=3D1&amp;aty=3D4&amp;cp=3D1&amp;c=
+t=3D1655172343269777&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751=
+&amp;notif_type=3D418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=
+=3D1&amp;st=3D1655172343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%=
+3A+10%3E%2C+66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2=
+C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3D=
+VhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" st=
+yle=3D'color:#999; text-decoration:none; font-family:-apple-system, BlinkMa=
+cSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica=
+ Neue", sans-serif; font-size:14px'><span class=3D"metadata_item" style=3D"=
+padding-right:8px">9 upvotes</span><span class=3D"metadata_item" style=3D"p=
+adding-right:8px">1 comment</span></a></div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div></div>
+<div class=3D"no_para_breaks"><div data-clog-trigger=3D"impression" data-cl=
+og-metadata=3D'{"action_log_target": {"type": 33, "hash": "0|2|1|361317497"=
+}}' data-clog-event-type=3D"ActionLogImpression" id=3D"__w2_ws4dEroO13_acti=
+onable">
+<table class=3D"polish_separator_wrapper" style=3D"border-collapse:collapse=
+; mso-table-lspace:0; mso-table-rspace:0; border:0; cellpadding:0; width:10=
+0%" width=3D"100%"><tbody><tr>
+<td style=3D"border-collapse:collapse"></td>
+<td class=3D"polish_separator" style=3D"border-collapse:collapse; border-bo=
+ttom:1px solid #eee; height:1px; width:140px" height=3D"1" width=3D"140"></=
+td>
+<td style=3D"border-collapse:collapse"></td>
+</tr></tbody></table>
+<table class=3D"story_wrapper" cellspacing=3D"0" border=3D"0" style=3D"bord=
+er-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" w=
+idth=3D"100%"><tbody><tr><td class=3D"story " style=3D"border-collapse:coll=
+apse; border-bottom:0; padding:20px 0"><table class=3D"digest_story_wrapper=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse=
+:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width=3D"100=
+%"><tbody>
+<tr><td class=3D"reason" style=3D"border-collapse:collapse; padding-bottom:=
+4px"><table class=3D"digest_reason" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0; mso-table-=
+rspace:0"><tbody><tr><td valign=3D"top" style=3D"border-collapse:collapse">=
+</td></tr></tbody></table></td></tr>
+<tr><td style=3D"border-collapse:collapse"><a class=3D"question_text" href=
+=3D"https://www.quora.com/qemail/track_click?al_imp=3DeyJ0eXBlIjogMzMsICJoY=
+XNoIjogIjB8MnwxfDM2MTMxNzQ5NyJ9&amp;al_pri=3D1&amp;aoid=3DXJlXF9FVuwd&amp;a=
+oty=3D2&amp;aty=3D4&amp;cp=3D2&amp;ct=3D1655172343269777&amp;et=3D146&amp;i=
+d=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;request_id=3D=
+418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp;storie=
+s=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_types.=
+tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+=
+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&a=
+mp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#333; text-decoration:none; =
+display:block; font-size:19px; font-weight:bold; letter-spacing:-0.5px; lin=
+e-height:1.4"><span class=3D"rendered_qtext" style=3D"word-break:break-word=
+">Do more people use WhatsApp over iMessage now?</span></a></td></tr>
+<tr><td style=3D"border-collapse:collapse"><table class=3D"item_content_wra=
+pper" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-coll=
+apse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width=3D=
+"100%"><tbody>
+<tr><td class=3D"content_header metadata" style=3D'border-collapse:collapse=
+; padding:8px 0; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI",=
+ Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif'><tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collaps=
+e:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td class=3D"content_header_photo" style=3D'border-collapse:collapse; font-=
+family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, =
+Ubuntu, Cantarell, "Helvetica Neue", sans-serif; vertical-align:top' valign=
+=3D"top"><a href=3D"https://www.quora.com/qemail/track_click?aoid=3Djh7y8o0=
+ZV52&amp;aoty=3D3&amp;aty=3D4&amp;cp=3D2&amp;ct=3D1655172343269777&amp;et=
+=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;r=
+equest_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D165517234327243=
+0&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3C=
+story_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%=
+3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cm=
+qcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#2b6dad; text-de=
+coration:none"><div id=3D"ws4dEroO41">
+<div class=3D"hover_menu hidden white_bg show_nub" id=3D"__w2_ws4dEroO42_me=
+nu"><div class=3D"hover_menu_contents" id=3D"__w2_ws4dEroO42_menu_contents"=
+> </div></div>
+<span class=3D"photo_tooltip HoverMenu IdentityPhoto Photo" id=3D"__w2_ws4d=
+EroO42_link"><img class=3D"profile_photo_img" src=3D"http://qph.fs.quoracdn=
+net/main-thumb-1785592609-50-xjemaqakvxjmrehjqdfsupmnixloidrz.jpeg" alt=3D=
+"Nanang Krissetiyanto" style=3D"-ms-interpolation-mode:bicubic; outline:0; =
+text-decoration:none; border:0; border-radius:100px; display:block; height:=
+40px; width:40px; border-style:none" height=3D"40" width=3D"40"></span>
+</div></a></td>
+<td class=3D"content_header_text" style=3D'border-collapse:collapse; paddin=
+g-left:8px; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Robo=
+to, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; color:#33=
+3'><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-=
+collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style=3D'border-collapse:collapse; font-family:-apple-system, Blink=
+MacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helveti=
+ca Neue", sans-serif'>
+<a class=3D"user_link" href=3D"https://www.quora.com/qemail/track_click?aoi=
+d=3Djh7y8o0ZV52&amp;aoty=3D3&amp;aty=3D4&amp;cp=3D2&amp;ct=3D16551723432697=
+77&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D=
+418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D165517=
+2343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535=
+)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tr=
+ibe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uF=
+yIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#333; t=
+ext-decoration:none; font-weight:bold; line-height:1.4; font-size:15px">Nan=
+ang Krissetiyanto</a><span style=3D"font-size:15px; line-height:1.4">, S-Si=
+ Mathematics &amp; Computing, Universitas Indonesia (2002)</span>
+</td></tr>
+<tr><td class=3D"answer_details" style=3D'border-collapse:collapse; color:#=
+999; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxy=
+gen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size:13px'>=
+<a href=3D"https://www.quora.com/qemail/track_click?aoid=3DdksmXNcdRGi&amp;=
+aoty=3D1&amp;aty=3D4&amp;cp=3D2&amp;ct=3D1655172343269777&amp;et=3D146&amp;=
+id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;request_id=
+=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp;sto=
+ries=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_typ=
+es.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10%3E%=
+2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx=
+8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#999; text-decoration:non=
+e">Written Sat</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td class=3D"item_content" style=3D'border-collapse:collapse; color:#33=
+3; display:block; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI"=
+, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; fon=
+t-size:15px; line-height:1.4'><a href=3D"https://www.quora.com/qemail/track=
+_click?al_imp=3DeyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDM2MTMxNzQ5NyJ9&amp;al=
+_pri=3D0&amp;aoid=3DdksmXNcdRGi&amp;aoty=3D1&amp;aty=3D4&amp;cp=3D2&amp;ct=
+=3D1655172343269777&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&=
+amp;notif_type=3D418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=3D=
+1&amp;st=3D1655172343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+=
+10%3E%2C+66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(=
+%3Cstory_types.tribe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhz=
+VjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=
+=3D"color:#333; text-decoration:none"><div id=3D"ws4dEroO28"><div class=3D"=
+truncated_para_breaks expanded_q_text TruncatedAnswerForDigestEmail Truncat=
+edAnswer TruncatedQText TruncatedAnswerForEmail" id=3D"__w2_ws4dEroO29_trun=
+cated">
+<span class=3D"rendered_qtext" style=3D"word-break:break-word"><p class=3D"=
+qtext_para u-ltr u-text-align--start" style=3D"margin:1em 0; line-height:1.=
+6">Yes, as long whatsapp still free. Just agree that iMessage is not free s=
+ince we need apple product to use it, and for now apple known for its expen=
+sive price =F0=9F=98=85</p></span> <a class=3D"read_more_blue" href=3D"http=
+s://www.quora.com/qemail/track_click?al_imp=3DeyJ0eXBlIjogMzMsICJoYXNoIjogI=
+jB8MnwxfDM2MTMxNzQ5NyJ9&amp;al_pri=3D8&amp;aoid=3DdksmXNcdRGi&amp;aoty=3D1&=
+amp;aty=3D4&amp;cp=3D2&amp;ct=3D1655172343269777&amp;et=3D146&amp;id=3Dcea2=
+1cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;request_id=3D418&amp;=
+snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp;stories=3D%5B(=
+%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_types.tribe_po=
+st%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67090923=
+)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=
+=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#168de9; text-decoration:none">Rea=
+d More =C2=BB</a>
+</div></div>
+<div class=3D"non_quora_share_embed_wrapper"><div class=3D"item_metadata" s=
+tyle=3D'padding-top:4px; color:#999; font-family:-apple-system, BlinkMacSys=
+temFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neu=
+e", sans-serif; font-size:14px'><a href=3D"https://www.quora.com/qemail/tra=
+ck_click?al_imp=3DeyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDM2MTMxNzQ5NyJ9&amp;=
+al_pri=3D0&amp;aoid=3DdksmXNcdRGi&amp;aoty=3D1&amp;aty=3D4&amp;cp=3D2&amp;c=
+t=3D1655172343269777&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751=
+&amp;notif_type=3D418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=
+=3D1&amp;st=3D1655172343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%=
+3A+10%3E%2C+66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2=
+C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3D=
+VhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" st=
+yle=3D'color:#999; text-decoration:none; font-family:-apple-system, BlinkMa=
+cSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica=
+ Neue", sans-serif; font-size:14px'><span class=3D"metadata_item" style=3D"=
+padding-right:8px"></span><span class=3D"metadata_item" style=3D"padding-ri=
+ght:8px"></span></a></div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table>
+</div></div>
+<div class=3D"no_para_breaks"><div data-clog-trigger=3D"impression" data-cl=
+og-metadata=3D'{"action_log_target": {"type": 33, "hash": "0|3|10|70880084"=
+}}' data-clog-event-type=3D"ActionLogImpression" id=3D"__w2_ws4dEroO14_acti=
+onable">
+<table class=3D"polish_separator_wrapper" style=3D"border-collapse:collapse=
+; mso-table-lspace:0; mso-table-rspace:0; border:0; cellpadding:0; width:10=
+0%" width=3D"100%"><tbody><tr>
+<td style=3D"border-collapse:collapse"></td>
+<td class=3D"polish_separator" style=3D"border-collapse:collapse; border-bo=
+ttom:1px solid #eee; height:1px; width:140px" height=3D"1" width=3D"140"></=
+td>
+<td style=3D"border-collapse:collapse"></td>
+</tr></tbody></table>
+<table class=3D"story_wrapper" cellspacing=3D"0" border=3D"0" style=3D"bord=
+er-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" w=
+idth=3D"100%"><tbody><tr><td class=3D"story " style=3D"border-collapse:coll=
+apse; border-bottom:0; padding:20px 0"><table class=3D"digest_story_wrapper=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse=
+:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width=3D"100=
+%"><tbody>
+<tr><td class=3D"reason" style=3D"border-collapse:collapse; padding-bottom:=
+4px"><table class=3D"digest_reason" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0; mso-table-=
+rspace:0"><tbody><tr><td valign=3D"top" style=3D"border-collapse:collapse">=
+<img src=3D"http://qsf.fs.quoracdn.net/-4-images.1x1.gif-26-ead3b51bb0590e9=
+9.gif" width=3D"1" height=3D"1" style=3D"-ms-interpolation-mode:bicubic; ou=
+tline:0; text-decoration:none; border-style:none"></td></tr></tbody></table=
+></td></tr>
+<tr><td style=3D"border-collapse:collapse"><a class=3D"header_title TextHea=
+der" href=3D"https://www.quora.com/qemail/track_click?al_imp=3DeyJ0eXBlIjog=
+MzMsICJoYXNoIjogIjB8M3wxMHw3MDg4MDA4NCJ9&amp;al_pri=3D0&amp;aoid=3D98Xw0dVm=
+mdm&amp;aoty=3D4&amp;aty=3D4&amp;cp=3D3&amp;ct=3D1655172343269777&amp;et=3D=
+146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;requ=
+est_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&a=
+mp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Csto=
+ry_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+=
+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcw=
+l9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D'color:#333; text-decorati=
+on:none; font-size:19px; font-weight:bold; letter-spacing:-0.5px; line-heig=
+ht:1.25; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,=
+ Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif'>Solved IOS 1=
+5.5 slow loading Safari and also battery drain </a></td></tr>
+<tr><td style=3D"border-collapse:collapse"><table class=3D"item_content_wra=
+pper" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-coll=
+apse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width=3D=
+"100%"><tbody>
+<tr><td class=3D"content_header metadata" style=3D'border-collapse:collapse=
+; padding:8px 0; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI",=
+ Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif'><tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collaps=
+e:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td class=3D"content_header_photo" style=3D'border-collapse:collapse; font-=
+family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, =
+Ubuntu, Cantarell, "Helvetica Neue", sans-serif; vertical-align:top' valign=
+=3D"top"><a href=3D"https://www.quora.com/qemail/track_click?aoid=3DLcyRjwh=
+f2ix&amp;aoty=3D3&amp;aty=3D4&amp;cp=3D3&amp;ct=3D1655172343269777&amp;et=
+=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;r=
+equest_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D165517234327243=
+0&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3C=
+story_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%=
+3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cm=
+qcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#2b6dad; text-de=
+coration:none"><div id=3D"ws4dEroO54">
+<div class=3D"hover_menu hidden white_bg show_nub" id=3D"__w2_ws4dEroO55_me=
+nu"><div class=3D"hover_menu_contents" id=3D"__w2_ws4dEroO55_menu_contents"=
+> </div></div>
+<span class=3D"photo_tooltip HoverMenu IdentityPhoto Photo" id=3D"__w2_ws4d=
+EroO55_link"><img class=3D"profile_photo_img" src=3D"http://qph.fs.quoracdn=
+net/main-thumb-67175631-50-tqbmrgywsjnbwvbcpdvfmjhijhwoymzb.jpeg" alt=3D"E=
+tienne D. Noum=C3=A8n" style=3D"-ms-interpolation-mode:bicubic; outline:0; =
+text-decoration:none; border:0; border-radius:100px; display:block; height:=
+40px; width:40px; border-style:none" height=3D"40" width=3D"40"></span>
+</div></a></td>
+<td class=3D"content_header_text" style=3D'border-collapse:collapse; paddin=
+g-left:8px; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Robo=
+to, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; color:#33=
+3'><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-=
+collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style=3D'border-collapse:collapse; font-family:-apple-system, Blink=
+MacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helveti=
+ca Neue", sans-serif'>
+<a class=3D"user_link" href=3D"https://www.quora.com/qemail/track_click?aoi=
+d=3DLcyRjwhf2ix&amp;aoty=3D3&amp;aty=3D4&amp;cp=3D3&amp;ct=3D16551723432697=
+77&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D=
+418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D165517=
+2343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535=
+)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tr=
+ibe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uF=
+yIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#333; t=
+ext-decoration:none; font-weight:bold; line-height:1.4; font-size:15px">Eti=
+enne D. Noum=C3=A8n</a><span style=3D"font-size:15px; line-height:1.4">, Fo=
+under @ Djamgatech, Engineer,  Quora curator</span>
+</td></tr>
+<tr><td class=3D"answer_details" style=3D'border-collapse:collapse; color:#=
+999; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxy=
+gen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size:13px'>=
+<a href=3D"https://www.quora.com/qemail/track_click?aoid=3D98Xw0dVmmdm&amp;=
+aoty=3D4&amp;aty=3D4&amp;cp=3D3&amp;ct=3D1655172343269777&amp;et=3D146&amp;=
+id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;request_id=
+=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp;sto=
+ries=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_typ=
+es.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10%3E%=
+2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx=
+8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#999; text-decoration:non=
+e">Posted Jun 3</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td class=3D"item_content" style=3D'border-collapse:collapse; color:#33=
+3; display:block; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI"=
+, Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; fon=
+t-size:15px; line-height:1.4'><div>
+<a href=3D"https://www.quora.com/qemail/track_click?al_imp=3DeyJ0eXBlIjogMz=
+MsICJoYXNoIjogIjB8M3wxMHw3MDg4MDA4NCJ9&amp;al_pri=3D0&amp;aoid=3D98Xw0dVmmd=
+m&amp;aoty=3D4&amp;aty=3D4&amp;cp=3D3&amp;ct=3D1655172343269777&amp;et=3D14=
+6&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;reques=
+t_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp=
+;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory=
+_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10=
+%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9=
+YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"color:#333; text-decoration=
+:none"><div class=3D"u-sans-font-main--regular"><div class=3D"ui_qtext_trun=
+cated ui_qtext_truncated_compact"><div class=3D"ui_qtext_truncated_text" st=
+yle=3D"display:inline">
+<span class=3D"ui_qtext_rendered_qtext"><p class=3D"ui_qtext_para u-ltr u-t=
+ext-align--start" style=3D"margin:1em 0; display:inline">iPhone 13 pro. So =
+after latest IOS update to 15.5 the loading of sites in safari has been so =
+slow and sometimes times out. No issue with Chrome. Also my battery seemed =
+to drain twice to three times...</p></span><a class=3D"ui_qtext_more_link" =
+href=3D"https://www.quora.com/qemail/track_click?al_imp=3DeyJ0eXBlIjogMzMsI=
+CJoYXNoIjogIjB8M3wxMHw3MDg4MDA4NCJ9&amp;al_pri=3D0&amp;aoid=3D98Xw0dVmmdm&a=
+mp;aoty=3D4&amp;aty=3D4&amp;cp=3D3&amp;ct=3D1655172343269777&amp;et=3D146&a=
+mp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif_type=3D418&amp;request_i=
+d=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=3D1655172343272430&amp;st=
+ories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_ty=
+pes.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory_types.tribe_post%3A+10%3E=
+%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRD=
+x8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" id=3D"__w2_ws4dEroO56_more" style=3D"co=
+lor:#2b6dad; text-decoration:none"><span class=3D"read_more_blue" style=3D"=
+color:#168de9"> Read More =C2=BB</span></a><span class=3D"hidden" id=3D"__w=
+2_ws4dEroO56_loading"><span class=3D"loading" style=3D"display:none">Loadin=
+g=E2=80=A6</span></span>
+</div></div></div></a><a href=3D"https://www.quora.com/qemail/track_click?a=
+l_imp=3DeyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxMHw3MDg4MDA4NCJ9&amp;al_pri=3D0=
+&amp;aoid=3D98Xw0dVmmdm&amp;aoty=3D4&amp;aty=3D4&amp;cp=3D3&amp;ct=3D165517=
+2343269777&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif=
+_type=3D418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=
+=3D1655172343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C=
++66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory=
+_types.tribe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr=
+%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"colo=
+r:#333; text-decoration:none"><div class=3D"quora_share_embed_border" style=
+=3D"border:1px solid #e2e2e2; border-radius:4px; margin-top:8px"><table cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"borde=
+r-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr><td=
+ style=3D"border-collapse:collapse"><div class=3D"quora_share_embed_wrapper=
+" style=3D"padding:8px">
+<div class=3D"item_text_header" style=3D"padding-bottom:4px"><span class=3D=
+"header_title TextHeader" style=3D'color:#333; font-size:15px; font-weight:=
+bold; letter-spacing:-0.5px; line-height:1.4; font-family:-apple-system, Bl=
+inkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helv=
+etica Neue", sans-serif'>Smartphone 101 =E2=80=93 Pick a smartphone for me =
+=E2=80=93 android or iOS =E2=80=93 Apple iPhone or Samsung or Huawei</span>=
+</div>
+<div class=3D"item_image"><div class=3D"outer_full_width_image embedded_ima=
+ge_wrapper" style=3D"border:1px solid #e2e2e2; height:200px; margin-top:8px=
+; overflow:hidden; width:100%; border-left:none; border-right:0" height=3D"=
+200" width=3D"100%"><img class=3D"full_width_image" src=3D"http://qph.fs.qu=
+oracdn.net/main-qimg-083ce154ee98e9adaf24adf1f83c0a08" style=3D"-ms-interpo=
+lation-mode:bicubic; outline:0; text-decoration:none; border:0; max-width:1=
+00%; height:200px; object-fit:cover; width:100%" height=3D"200" width=3D"10=
+0%"></div></div>
+<div class=3D"item_metadata" style=3D'color:#999; font-family:-apple-system=
+, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "=
+Helvetica Neue", sans-serif'><div class=3D"hyperlink_metadata has_publisher=
+_icon" style=3D"margin-top:4px">
+<img class=3D"hyperlink_publisher_icon" src=3D"http://qph.fs.quoracdn.net/m=
+ain-qimg-a8e4abec5b3ae653c1f3320076f41c44" style=3D"-ms-interpolation-mode:=
+bicubic; outline:0; text-decoration:none; border:0; max-width:100%; height:=
+15px; margin-right:4px; vertical-align:middle; width:15px" height=3D"15" va=
+lign=3D"middle" width=3D"15"><a href=3D"https://www.quora.com/qemail/track_=
+click?al_imp=3DeyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxMHw3MDg4MDA4NCJ9&amp;al_=
+pri=3D0&amp;aoid=3D98Xw0dVmmdm&amp;aoty=3D4&amp;aty=3D4&amp;cp=3D3&amp;ct=
+=3D1655172343269777&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&=
+amp;notif_type=3D418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=3D=
+1&amp;st=3D1655172343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+=
+10%3E%2C+66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(=
+%3Cstory_types.tribe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhz=
+VjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=
+=3D'color:#999; text-decoration:none; font-family:-apple-system, BlinkMacSy=
+stemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Ne=
+ue", sans-serif'>enoumen.com</a>
+</div></div>
+</div></td></tr></tbody></table></div></a><tr><td style=3D"border-collapse:=
+collapse"><div class=3D"non_quora_share_embed_wrapper"><div class=3D"item_m=
+etadata" style=3D'padding-top:4px; color:#999; font-family:-apple-system, B=
+linkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Hel=
+vetica Neue", sans-serif; font-size:14px'><a href=3D"https://www.quora.com/=
+qemail/track_click?al_imp=3DeyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxMHw3MDg4MDA=
+4NCJ9&amp;al_pri=3D0&amp;aoid=3D98Xw0dVmmdm&amp;aoty=3D4&amp;aty=3D4&amp;cp=
+=3D3&amp;ct=3D1655172343269777&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c=
+19b2d31751&amp;notif_type=3D418&amp;request_id=3D418&amp;snid=3D37881541641=
+&amp;src=3D1&amp;st=3D1655172343272430&amp;stories=3D%5B(%3Cstory_types.tri=
+be_post%3A+10%3E%2C+66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+679=
+74654)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_ite=
+m_ids=3DVhzVjD7MpCr%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=
+=3D0" style=3D'color:#999; text-decoration:none; font-family:-apple-system,=
+ BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "H=
+elvetica Neue", sans-serif; font-size:14px'><span class=3D"metadata_item" s=
+tyle=3D"padding-right:8px">4 upvotes</span><span class=3D"metadata_item" st=
+yle=3D"padding-right:8px"></span></a></div></div></td></tr>
+</div></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table>
+</div></div>
+</div>
+</td></tr></tbody></table></td>
+<td class=3D"w30" style=3D"border-collapse:collapse"> </td>
+</tr></tbody></table></td></tr>
+<tr><td style=3D"border-collapse:collapse"><div class=3D"polish_button_wrap=
+per" style=3D"margin-bottom:25px; text-align:center" align=3D"center"><a cl=
+ass=3D"polish_action_button" href=3D"https://iosapps.quora.com" style=3D"co=
+lor:#fff; text-decoration:none; background-color:#168de9; border-radius:3px=
+; box-shadow:0 1px 1px 0 rgba(200, 200, 200, 0.2); cursor:pointer; display:=
+inline-block; font-size:15px; line-height:1.4; outline:0; padding:15px 25px=
+; text-align:center" bgcolor=3D"#168de9" align=3D"center">Read more in iPho=
+ne iPad MacBook iOS</a></div></td></tr>
+<tr><td style=3D"border-collapse:collapse"><table cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0" align=3D"center" style=3D"border-collapse:collapse;=
+ mso-table-lspace:0; mso-table-rspace:0">
+<tr></tr>
+<tr></tr>
+</table></td></tr>
+</tbody></table></td></tr>
+<tr><td class=3D"polish_footer_section footer_container_wrapper" align=3D"c=
+enter" style=3D"border-collapse:collapse; max-width:525px; margin-top:16px"=
+><table class=3D"footer_container" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0; mso-table-r=
+space:0; color:#999; font-size:11px; padding-top:16px; text-align:center; w=
+idth:100%" align=3D"center" width=3D"100%"><tr><td style=3D"border-collapse=
+:collapse"><div class=3D"footer_text_wrapper" style=3D"padding:25px 20px"><=
+div>
+<span style=3D"color:#999; display:block; padding-bottom:8px">This email wa=
+s sent by Quora (605 Castro Street, Mountain View, CA 94041). </span><span =
+style=3D"color:#999; display:block; padding-bottom:8px">You were sent this =
+email because you are following <a class=3D"unsubscribe_link" href=3D"https=
+://iosapps.quora.com" style=3D"color:#999; text-decoration:underline">iPhon=
+e iPad MacBook iOS</a>. If you don't want these updates anymore, you can <a=
+ class=3D"unsubscribe_link" href=3D"https://www.quora.com/qemail/track_clic=
+k?aoid=3DaW5l7qfKvmH&amp;aoty=3D24&amp;aty=3D12&amp;cp=3D10&amp;ct=3D165517=
+2343269777&amp;et=3D146&amp;id=3Dcea21cb9ef34404895627c19b2d31751&amp;notif=
+_type=3D418&amp;request_id=3D418&amp;snid=3D37881541641&amp;src=3D1&amp;st=
+=3D1655172343272430&amp;stories=3D%5B(%3Cstory_types.tribe_post%3A+10%3E%2C=
++66593535)%2C+(%3Cstory_types.tribe_post%3A+10%3E%2C+67974654)%2C+(%3Cstory=
+_types.tribe_post%3A+10%3E%2C+67090923)%5D&amp;tribe_item_ids=3DVhzVjD7MpCr=
+%7CVCa6uFyIBZA%7Cmqcwl9YRDx8&amp;uid=3DbwCNT6KYQ8D&amp;v=3D0" style=3D"colo=
+r:#999; text-decoration:underline">unfollow iPhone iPad MacBook iOS</a> or =
+<a class=3D"unsubscribe_link" href=3D"https://www.quora.com/email_optout/qe=
+mail_unsubscribe?email_track_id=3Dcea21cb9ef34404895627c19b2d31751&amp;t=3D=
+1655172343304137&amp;token=3De5e403026c050fbc4f2d93711fc51c78fb7e3b21e1e60d=
+809216d3f7010da7c1e1521325842dd2d03ea24db84f8e068fd528a195828eb9570016736e3=
+f717e45&amp;type=3D146&amp;uid=3D1542814342" style=3D"color:#999; text-deco=
+ration:underline">unsubscribe</a></span><span style=3D"color:#999; display:=
+block; padding-bottom:8px"><a href=3D"https://www.quora.com/" style=3D"colo=
+r:#999; text-decoration:underline">https://www.quora.com/</a></span>
+</div></div></td></tr></table></td></tr>
+</tbody></table></td></tr></tbody></table></div></body>
+</html>
+
+--===============5476207743559450334==--
